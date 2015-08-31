@@ -1,0 +1,6 @@
+// Filename: PIC24FJ256GB106.e3d Date: Monday, August 24, 2015
+
+version_1
+
+import_ TQFP-64_3d.WRL; 0.000000; 0.000000; 0.000000; -90.000000; 0.000000; 0.000000; 39370.078125
+

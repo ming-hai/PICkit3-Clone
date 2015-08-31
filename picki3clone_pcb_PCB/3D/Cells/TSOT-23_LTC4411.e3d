@@ -1,0 +1,6 @@
+// Filename: TSOT-23_LTC4411.e3d Date: Monday, August 24, 2015
+
+version_1
+
+import_ User Library-TSOT23-5.WRL; -30.000000; 120.000000; 40.000000; 270.000000; 0.000000; -0.000000; 39370.078125
+

@@ -1,0 +1,8 @@
+Filelist:
+
+<branch>			Startup code and project
+<PICkit3OS>			Main operating system and project. Included HID USB stack
+<PICkit3.mcw>		MPLAB 8 workspace
+<PK3BLV011405.hex>	Bootloader
+<PK3IMG020005.hex>	Full image containing startup code, OS, and bootloader
+<PK3OSV020005.hex>	Operating system

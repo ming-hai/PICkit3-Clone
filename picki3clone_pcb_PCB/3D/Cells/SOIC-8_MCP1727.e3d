@@ -1,0 +1,6 @@
+// Filename: SOIC-8_MCP1727.e3d Date: Monday, August 24, 2015
+
+version_1
+
+import_ SOIC-8_3d.WRL; 0.000000; 0.000000; 0.000000; 90.000000; -180.000000; 270.000000; 39370.078125
+

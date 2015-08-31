@@ -1,0 +1,14 @@
+-- 23/08/2015 
+
+ - Project started
+ - Downloaded documentation and schematic
+
+-- 24/08/2015 
+
+ - Added PCB Decals on PADS Mentor
+ - Downloaded most of the 3D Models
+ - Added most of the active components on schematic
+ - Added some pasive components on schematic
+
+-- 25/08/2015
+ - Added some pasive components on schematic

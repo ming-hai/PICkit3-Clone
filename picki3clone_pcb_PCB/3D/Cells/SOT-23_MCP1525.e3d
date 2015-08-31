@@ -1,0 +1,6 @@
+// Filename: SOT-23_MCP1525.e3d Date: Monday, August 24, 2015
+
+version_1
+
+import_ SOT23-3_3d.WRL; 0.000000; 0.000000; 0.000000; -90.000000; 0.000000; 0.000000; 39370.078125
+
